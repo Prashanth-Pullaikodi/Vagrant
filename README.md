@@ -40,16 +40,16 @@ Go to the cloned repo directory .You will find two files ,
 
   1.Manual mode : - This mode will setup two virtual boxes for you .By default vagrant will setup one manager and one worker node for you .
 
-  ```bash
+```bash
     vagrant up
     Vagrant status
-    ```
+```
 
   2.Auto Mode  : - This mode will setup two virtual boxes's with pre-configured Docker Swarm for you.(Manger + 1 worker node).If you would like to  have more worker nodes modify the below parameters in vagrant file and 'Auto=true vagrant up '
 
 ```bash
     AUTO=true vagrant up
-    Vagrant staus  #Shows you the running VM's
+    Vagrant status      #Shows you the running VM's
 ```
 
 Note: The above `vagrant up` command will also trigger Vagrant to download the

@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="NgRYO89lF4vkaY21HqkY7uNjtIlhshShPRvD7i2VKC4" />
+
 # Vagrant
 
 * Website: [https://www.vagrantup.com/](https://www.vagrantup.com/)
